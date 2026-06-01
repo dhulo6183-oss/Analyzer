@@ -103,13 +103,7 @@ Excel Analyzer Pr 2/
 
 ---
 
-# 📷 Project Screenshots
 
-## 🔹 Top 10 Customers
-
-![Top 10 Customers](Screenshots/1.png)
-
----
 
 ## 🔹 What-If Analysis
 
