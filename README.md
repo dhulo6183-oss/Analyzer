@@ -185,7 +185,7 @@ Using charts, pivot tables, regression analysis, and dashboards, meaningful insi
 
 # 👨‍💻 Author
 
-**Devan Patel**
+dhruv prajapati
 
 ---
 
